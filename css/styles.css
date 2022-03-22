@@ -1,5 +1,4 @@
 /* ===============================
-
    Colour Palette:
    ---------------
    Gold:		    #cab15e
@@ -150,7 +149,28 @@ header nav ul li#logo a:hover {
 	right: -30px;
 }
 
+#about-me {
+    width: 500px;
+    margin-right: 24px;
+    float: right;
+    font-size: 16px;
+}
+
+#about-me h1 {
+    color:#000;
+}
+
+#about-me p {
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+}
+
+#projects h1 {
+    color: #d5bf79;
+}
 /* The Whole Story */
+
 
 #story-excerpt {
 	width: 530px;
@@ -158,6 +178,7 @@ header nav ul li#logo a:hover {
 	float: left;
 	font-size: 16px;
 }
+
 
 #best-donut {
 	background: url('../images/award.png') left center no-repeat;
