@@ -22,7 +22,12 @@ body {
 	margin: 0 auto;
 	padding: 30px 24px;
 }
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 /* Typography */
 
 h1, h2 {
@@ -130,7 +135,7 @@ header nav ul li#logo a:hover {
 /* Hero */
 
 #hero {
-	background: #e8c04f url('../images/bg-tile-yellow.gif') top left repeat;
+	background: #d5bf79;
 }
 
 #hero .container {
@@ -140,7 +145,6 @@ header nav ul li#logo a:hover {
 #hero .large-ribbon {
 	height: 190px;
 	width: 150px;
-	background: url('../images/fresh-whole-ingredients.png') top left no-repeat;
 	text-indent: -9999px;
 	position: absolute;
 	top: -23px;
