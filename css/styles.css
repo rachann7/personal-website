@@ -109,7 +109,6 @@ header nav ul li {
 header nav ul li a:hover {
 	color: #cab15e;
 	padding-top: 32px;
-	background: url('../images/tiny-logo.png') top center no-repeat;
 }
 
 header nav ul li a {
