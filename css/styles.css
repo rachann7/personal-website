@@ -1,23 +1,15 @@
 /* ===============================
-   Author: Brad Hussey
-   Date:   September 22, 2013
-   
-   Notes:
-   Hand coded for Build a Website
-   from Scratch with HTML & CSS
-   
+
    Colour Palette:
    ---------------
-   Light Cream:		#f2f3ee
-   Orange:			#d17f38
-   Yellow:			#e8c04f
-   Brown:			#4b2707
+   Gold:		    #cab15e
+   
    =============================== */
 
 /* General */
 
 body {
-	background: #f2f3ee url('../images/bg-tile.gif') top left repeat;
+	background: #fff;
 	color: #4b2707;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;
@@ -127,13 +119,12 @@ header nav ul li#logo a {
 	display: block;
 	width: 292px;
 	height: 141px;
-	background: url('../images/logo.png') center center no-repeat;
+	background: url('../images/center-logo.png') center center no-repeat;
 	text-indent: -9999px;
 }
 
 header nav ul li#logo a:hover {
 	padding: 0;
-	background: url('../images/logo-hover.png') center center no-repeat;
 }
 
 /* Hero */
