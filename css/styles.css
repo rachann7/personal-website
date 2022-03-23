@@ -131,15 +131,15 @@ header nav ul li#logo a:hover {
 
 /* Hero */
 
-#hero {
+#web {
 	background: #d5bf79;
 }
 
-#hero .container {
+#web .container {
 	position: relative;
 }
 
-#hero .large-ribbon {
+#web .large-ribbon {
 	height: 190px;
 	width: 150px;
 	text-indent: -9999px;
