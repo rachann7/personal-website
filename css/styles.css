@@ -139,15 +139,6 @@ header nav ul li#logo a:hover {
 	position: relative;
 }
 
-#web .large-ribbon {
-	height: 190px;
-	width: 150px;
-	text-indent: -9999px;
-	position: absolute;
-	top: -23px;
-	right: -30px;
-}
-
 #about-me {
     width: 500px;
     margin-right: 24px;
