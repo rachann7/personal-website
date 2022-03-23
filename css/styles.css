@@ -129,7 +129,7 @@ header nav ul li#logo a:hover {
 	padding: 0;
 }
 
-/* Hero */
+/* "About Me" section */
 
 #web {
 	background: #d5bf79;
@@ -164,26 +164,15 @@ header nav ul li#logo a:hover {
     font-size: 20px;
     color: #000;
 }
-
+/* Projects section */
 #projects h1 {
     color: #d5bf79;
 }
-/* The Whole Story */
 
-
-#story-excerpt {
-	width: 530px;
-	margin-right: 24px;
+#projects h2.lead{
 	float: left;
-	font-size: 16px;
-}
-
-
-#best-donut {
-	background: url('../images/award.png') left center no-repeat;
-	padding: 30px 0 30px 130px;
-	width: 240px;
-	float: left;
+	color: #000;
+	font-size: 30px;
 }
 
 /* News & Events */
