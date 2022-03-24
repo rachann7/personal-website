@@ -165,6 +165,13 @@ header nav ul li#logo a:hover {
 	font-size: 30px;
 }
 
+#projects .dashboard p {
+    float: right;
+	font-size: 20px;
+	width: 550px;
+	color: #000;
+}
+
 /* News & Events */
 
 #articles {
