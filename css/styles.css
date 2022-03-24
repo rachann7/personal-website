@@ -29,7 +29,7 @@ body {
   }
 /* Typography */
 
-h1, h2 {
+h1, h2, h3{
 	font-family: 'Love Ya Like A Sister', cursive;
 	color: #d17f38;
 	font-size: 40px;
@@ -184,6 +184,23 @@ header nav ul li#logo a:hover {
 	border-right-style: dashed;
 	border-width: thin 2px;
 }
+
+/* Contact Me */ 
+#contact-me h1 {
+	color: #d5bf79;
+}
+
+#contact-me p {
+	color:#000;
+	text-align: center;
+	font-size: 20px;
+}
+
+#contact-me h3 {
+	color: #000;
+	text-align: center;
+	font-size: 30px;
+}
 /* Footer */
 
 footer.main {
@@ -207,9 +224,7 @@ footer.main a:hover {
 }
 
 #credits {
-	background: url('../images/icon-apple.png') center left no-repeat;
 	float: right;
-	margin-top: 5px;
 }
 
 /* Force Elements to Self Clear its Children: http://css-tricks.com/snippets/css/clear-fix/ */
