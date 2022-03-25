@@ -219,10 +219,6 @@ footer.main a:hover {
 	padding: 10px 0 10px 50px;
 }
 
-#uncopyright {
-	background: url('../images/icon-recycle.png') center left no-repeat;
-}
-
 #credits {
 	float: right;
 }
