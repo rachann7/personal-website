@@ -201,6 +201,10 @@ header nav ul li#logo a:hover {
 	text-align: center;
 	font-size: 30px;
 }
+
+.personal:hover {
+	color: #d5bf79;
+}
 /* Footer */
 
 footer.main {
