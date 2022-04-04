@@ -158,6 +158,10 @@ header nav ul li#logo a:hover {
     color: #000;
 }
 /* Projects section */
+#projects {
+	scroll-behavior: smooth;
+}
+
 #projects h1 {
     color: #d5bf79;
 }
