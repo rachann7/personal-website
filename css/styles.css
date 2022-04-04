@@ -15,7 +15,6 @@ body {
 	text-rendering: optimizelegibility;
 	font-size: 14px;
 	font-family: 'Open Sans', "Helvetica Neue", Arial, sans-serif;
-	scroll-behavior: smooth;
 }
 
 .container {
@@ -158,10 +157,6 @@ header nav ul li#logo a:hover {
     color: #000;
 }
 /* Projects section */
-#projects {
-	scroll-behavior: smooth;
-}
-
 #projects h1 {
     color: #d5bf79;
 }
